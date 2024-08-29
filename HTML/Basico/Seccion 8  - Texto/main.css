@@ -1,0 +1,26 @@
+body{
+    background-color: #eee;
+}
+
+p{
+   font-family: 'Courier New', Courier, monospace;
+   font-style: oblique ;
+   font-size: 40px;
+   color: #222fff;
+   /* font-size: 30px; */
+   text-align: justify;
+   text-indent: 25px;
+   line-height: 1.7;
+   word-spacing: 10px;
+   text-shadow: 5px 10px 3px rgba(255, 10, 20, 1);
+   /* text-align: center; */
+   /* text-align: right; */
+   /* text-align: left; */
+}
+
+/* a{
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+} */
