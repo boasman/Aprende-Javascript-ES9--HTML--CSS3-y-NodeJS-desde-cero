@@ -1,0 +1,16 @@
+body{
+    background-color: #eee;
+}
+
+p{
+    max-width: 800px ;
+    width: 800px;
+    background-color: #f00;
+    position: fixed;
+    /* margin: auto; */
+    /* position: relative; */
+    /* right: 100px; */
+    /* top: 100px; */
+    /* bottom: 0px;
+    left: 100px; */
+}
